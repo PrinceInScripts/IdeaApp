@@ -5,5 +5,5 @@
 
 module.exports = {
     DB_NAME: "idea_app_demo",
-    DB_URL: "mongodb+srv://knight12:Prince@cluster0.qxq8mtb.mongodb.net/"
+    DB_URL:`mongodb://127.0.0.1:27017/lms`
 };
